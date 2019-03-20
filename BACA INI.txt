@@ -1,0 +1,25 @@
+IMPORT DATABASE, dengan nama ujiskill , file nya ujiskill.sql
+
+REST SEVER
+Codeigniter Library Rest Server
+REST CLIENT
+Codeigniter Library CUrl
+
+
+Rest Api Client dan Server digabung
+
+akses rest api
+http://localhost/ujici/api/pegawai
+
+GET
+tanpa parameter ambil semua data
+dengan parameter id , ambil satu data
+
+POST
+parameter nip, nama, id_jabatan, status
+
+EDIT
+parameter edit nip, nama, id_jabatan, status
+
+DELETE
+parameter nip, tapi belum selesai masih ada yang salah karena melakukan update pada method ini
